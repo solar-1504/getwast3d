@@ -1,7 +1,5 @@
 # WNRS
 
-Play WNRS on your browser [here](https://munjoonteo.github.io/wnrs/)! Contains all the cards from the standard deck with a few choice additions.
-
-Created in collaboration with [@ilyues](https://github.com/ilyues).
+Play Get Wast3d on your browser [here](https://solar-1504.github.io/getwast3d/)!
 
 Written with React.
