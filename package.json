@@ -1,7 +1,7 @@
 {
   "name": "wnrs",
   "private": true,
-  "homepage": "https://solar-1504.github.io/getwast3d.github.io/",
+  "homepage": "https://solar-1504.github.io/getwast3d/",
   "version": "0.1.0",
   "type": "module",
   "scripts": {
